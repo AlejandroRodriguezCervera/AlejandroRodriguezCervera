@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola 👋, soy Alejandro Rodríguez
 
-<!--
-**AlejandroRodriguezCervera/AlejandroRodriguezCervera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **Ciencias Físicas** por la **Universidad Complutense de Madrid** y estoy finalizando mis estudios. Próximamente iniciaré el **Máster en Big Data, Data Science e Inteligencia Artificial** en la misma universidad.  
 
-Here are some ideas to get you started:
+Este perfil de GitHub es un **escaparate de mis proyectos personales**, donde aplico análisis de datos, programación y ciencia aplicada a distintos ámbitos, incluyendo astrofísica y habitabilidad de exoplanetas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+- Análisis de datos con **Python** y **RStudio**  
+- Visualización de datos y creación de informes interactivos  
+- Modelos de predicción y aprendizaje automático  
+- Investigación y simulación científica
+
+
+## Contacto
+[LinkedIn](www.linkedin.com/in/alejandro-rodriguez-cervera-62544a35b) | [Correo] (alejandro.rodriguezcervera@gmail.com)
+
