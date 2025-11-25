@@ -11,6 +11,4 @@ Este perfil de GitHub es un **escaparate de mis proyectos personales**, donde ap
 - Investigación y simulación científica
 
 
-## Contacto
-[LinkedIn](httpp://www.linkedin.com/in/alejandro-rodriguez-cervera-62544a35b) 
 
