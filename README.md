@@ -12,5 +12,5 @@ Este perfil de GitHub es un **escaparate de mis proyectos personales**, donde ap
 
 
 ## Contacto
-[LinkedIn](www.linkedin.com/in/alejandro-rodriguez-cervera-62544a35b) 
+[LinkedIn](httpp://www.linkedin.com/in/alejandro-rodriguez-cervera-62544a35b) 
 
